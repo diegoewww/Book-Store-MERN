@@ -3,7 +3,7 @@ import React from 'react'
 const EditBook = () => {
   return (
     <div>
-      EditBook xdddd
+      EditBook xddddxd
     </div>
   )
 }
